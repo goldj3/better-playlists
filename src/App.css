@@ -1,9 +1,10 @@
-.App {
-  text-align: center;
+html, body {
+  background-color: gray;
 }
 
-.App .aggregate {
-  color: #61dafb;
+
+.App {
+  text-align: center;
 }
 
 
